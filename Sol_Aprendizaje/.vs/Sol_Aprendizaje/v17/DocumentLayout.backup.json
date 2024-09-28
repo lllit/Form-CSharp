@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\litio\\OneDrive\\Escritorio\\LLLIT\\Code-W11\\C#\\DeVito\\Sol_Aprendizaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71066C7C-7EE6-4EC4-A181-7033193E9DAB}|Presentacion\\Presentacion.csproj|c:\\users\\litio\\onedrive\\escritorio\\lllit\\code-w11\\c#\\devito\\sol_aprendizaje\\presentacion\\frm_mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71066C7C-7EE6-4EC4-A181-7033193E9DAB}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frm_mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71066C7C-7EE6-4EC4-A181-7033193E9DAB}|Presentacion\\Presentacion.csproj|c:\\users\\litio\\onedrive\\escritorio\\lllit\\code-w11\\c#\\devito\\sol_aprendizaje\\presentacion\\frm_mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71066C7C-7EE6-4EC4-A181-7033193E9DAB}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frm_mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71066C7C-7EE6-4EC4-A181-7033193E9DAB}|Presentacion\\Presentacion.csproj|C:\\Users\\litio\\OneDrive\\Escritorio\\LLLIT\\Code-W11\\C#\\DeVito\\Sol_Aprendizaje\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71066C7C-7EE6-4EC4-A181-7033193E9DAB}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_mdi.cs",
+              "DocumentMoniker": "C:\\Users\\litio\\OneDrive\\Escritorio\\LLLIT\\Code-W11\\C#\\DeVito\\Sol_Aprendizaje\\Presentacion\\frm_mdi.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frm_mdi.cs",
+              "ToolTip": "C:\\Users\\litio\\OneDrive\\Escritorio\\LLLIT\\Code-W11\\C#\\DeVito\\Sol_Aprendizaje\\Presentacion\\frm_mdi.cs",
+              "RelativeToolTip": "Presentacion\\frm_mdi.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAYwKsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:57:35.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_mdi.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\litio\\OneDrive\\Escritorio\\LLLIT\\Code-W11\\C#\\DeVito\\Sol_Aprendizaje\\Presentacion\\frm_mdi.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frm_mdi.cs",
+              "ToolTip": "C:\\Users\\litio\\OneDrive\\Escritorio\\LLLIT\\Code-W11\\C#\\DeVito\\Sol_Aprendizaje\\Presentacion\\frm_mdi.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\frm_mdi.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:56:16.876Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\litio\\OneDrive\\Escritorio\\LLLIT\\Code-W11\\C#\\DeVito\\Sol_Aprendizaje\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\litio\\OneDrive\\Escritorio\\LLLIT\\Code-W11\\C#\\DeVito\\Sol_Aprendizaje\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:57:59.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
